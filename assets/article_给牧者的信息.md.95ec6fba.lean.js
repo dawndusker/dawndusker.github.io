@@ -1,0 +1,1 @@
+import{_ as p,c as _,o as t,a as e}from"./app.a6e9f6c9.js";const T='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"article/\u7ED9\u7267\u8005\u7684\u4FE1\u606F.md"}',a={},r=e("",29),o=[r];function c(s,n,i,d,l,f){return t(),_("div",null,o)}var h=p(a,[["render",c]]);export{T as __pageData,h as default};
