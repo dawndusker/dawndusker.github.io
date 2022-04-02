@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.80c5deab.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bible/\u521B\u4E16\u7EAA/\u7075\u611F.md"}',r={};function o(c,n,s,i,_,p){return a(),t("div")}var l=e(r,[["render",o]]);export{f as __pageData,l as default};
