@@ -1,1 +1,0 @@
-import{_ as p,c as _,o as t,a as e}from"./app.99fe64b1.js";const T='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"poem/\u52A0\u73ED\u4FC3\u6B7B \u731D\u4E0D\u53CA\u9632.md"}',a={},o=e("",50),r=[o];function s(c,n,i,d,l,f){return t(),_("div",null,r)}var h=p(a,[["render",s]]);export{T as __pageData,h as default};
