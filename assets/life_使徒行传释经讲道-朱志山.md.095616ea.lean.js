@@ -1,0 +1,1 @@
+import{_ as e,c as r,o,a as n}from"./app.27be4722.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/\u4F7F\u5F92\u884C\u4F20\u91CA\u7ECF\u8BB2\u9053-\u6731\u5FD7\u5C71.md"}',s={},a=n("",19),t=[a];function p(i,l,h,w,c,f){return o(),r("div",null,t)}var S=e(s,[["render",p]]);export{u as __pageData,S as default};
