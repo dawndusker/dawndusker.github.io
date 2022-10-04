@@ -1,1 +1,0 @@
-import{_ as l,c as _,o as p,a as i}from"./app.618cde25.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"galatians/6.\u5974\u4EC6\u4E4B\u5FC3\u4E0E\u513F\u5B50\u4E4B\u5FC3\u7684\u5DEE\u5F02.md"}',t={},e=i("",19),a=[e];function o(u,s,r,c,n,d){return p(),_("div",null,a)}var T=l(t,[["render",o]]);export{m as __pageData,T as default};

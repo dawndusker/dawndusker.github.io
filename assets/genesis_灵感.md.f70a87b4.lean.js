@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.70d86030.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"John/\u7EA6\u7FF0\u798F\u97F32.md"}',r={};function o(c,n,s,_,p,i){return a(),t("div")}var l=e(r,[["render",o]]);export{f as __pageData,l as default};
