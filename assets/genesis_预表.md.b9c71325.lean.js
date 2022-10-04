@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,a as r}from"./app.38dbd5a0.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"genesis/\u9884\u8868.md"}',a={},t=r("",5),o=[t];function n(p,_,s,c,f,h){return e(),i("div",null,o)}var y=l(a,[["render",n]]);export{m as __pageData,y as default};
