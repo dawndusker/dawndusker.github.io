@@ -1,0 +1,1 @@
+import{_ as n,c as e,o as _,a}from"./app.cc1c08f6.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"poem/\u8FB9\u4E91\u6CE2-\u6000\u5FF5\u7684\u5FC3\u613F.md"}',c={},o=a("",8),t=[o];function d(p,r,s,i,l,v){return _(),e("div",null,t)}var f=n(c,[["render",d]]);export{u as __pageData,f as default};
